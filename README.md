@@ -24,3 +24,8 @@ Feel free to contact me at [omkarsathe.pers@gmail.com](mailto:omkarsathe.pers@gm
 ## Acknowledgements
 - [Static Pages Application](https://www.softcover.io/read/92780ad5/django_book/static_pages_app#cha-static_pages_app)
 - [Heroku](https://www.softcover.io/read/92780ad5/django_book/heroku)
+- [Heroku Free Tier Alternatives](https://www.linkedin.com/pulse/heroku-free-tier-alternatives-hayk-simonyan/)
+- [Heroku’s Next Chapter](https://blog.heroku.com/next-chapter)
+- [Django Tutorial Part 11: Deploying Django to production](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Deployment)
+- [Deploying an existing Django project on PythonAnywhere](https://help.pythonanywhere.com/pages/DeployExistingDjangoProject/)
+- [Exception Value: Invalid HTTP_HOST header](https://www.pythonanywhere.com/forums/topic/12929/)
